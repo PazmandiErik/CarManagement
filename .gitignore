@@ -1,0 +1,13 @@
+﻿*.gz
+*.identcache
+*.local
+*.~*
+*.docx
+*.log
+*.dcu
+*.exe
+*.res
+*.ini
+*.ico
+Win32/*
+*.drawio
